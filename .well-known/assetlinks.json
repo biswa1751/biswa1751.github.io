@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.biswa1751",
+        "sha256_cert_fingerprints": ["74:4D:88:5E:0B:EF:DE:28:9C:EB:64:EA:3B:48:65:AD:3E:5B:3B:C5:BD:F9:7C:AA:AC:A5:C7:FC:7C:D7:3B:91"]
+      }
+    }]
